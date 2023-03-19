@@ -31,7 +31,7 @@ source ~/.bashrc
 
 4. Install dependencies for building ROS packages:
 ```
-sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
+sudo apt install python3-rosdep python3-rosinstall python3-catkin-tools python3-rosinstall-generator python3-wstool build-essential
 ```
 
 5. Initialize rosdep:
